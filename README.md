@@ -2,7 +2,7 @@
 
 ISO8601DateFormatter alternative, upon DateFormatter.
 
-How to formatter `2020-10-25T14:07:21.000Z`
+How to format `2020-10-25T14:07:21.000Z`
 
 ```swift
 let formatter = ZISO8601DateFormatter()
